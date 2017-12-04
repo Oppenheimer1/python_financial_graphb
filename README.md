@@ -1,0 +1,1 @@
+## A Financial Graph application built with Python that can that can pull in financial stock information from the following resources: Yahoo! Finance, Google Finance, Enigma, Quandl, St.Louis FED (FRED), Kenneth French’s data library, World Bank, OECD, Eurostat, Thrift Savings Plan and chart stock prices from a specified period of time.
